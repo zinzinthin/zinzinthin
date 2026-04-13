@@ -16,7 +16,7 @@
 ---
 
 ## 📫 Contact
-📧 Email: zinzinthinzaw@email.com  
+📧 Email: zinzinthinzaw@gmail.com  
 💻 GitHub: https://github.com/zinzinthin  
 🔗 LinkedIn: https://mm.linkedin.com/in/zin-zin-thin-zaw-1979a7196  
 
