@@ -10,30 +10,6 @@
 
 ---
 
-## 🧠 About Me
-- I specialize in backend development and API design  
-- I build scalable and maintainable server-side systems  
-- I focus on clean architecture and real-world applications  
-- Currently improving system design and full-stack integration skills  
-
----
-
-## 💼 What I Build
-- RESTful APIs with authentication & role-based access control  
-- Backend systems using Laravel & Node.js  
-- Database-driven applications (MySQL / MongoDB)  
-- Full-stack apps integrated with React / Next.js  
-
----
-
-## 🔧 Tech Stack
-**Backend:** Laravel, Node.js, Express  
-**Database:** MySQL, MongoDB, Prisma, Eloquent  
-**Frontend Support:** React, Next.js, Tailwind CSS  
-**Tools:** Git, GitHub, Postman, VS Code, Linux (Ubuntu)  
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=zinzinthin)
 
