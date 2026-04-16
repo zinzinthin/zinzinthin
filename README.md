@@ -11,11 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=zinzinthin)
-
----
-
 ## 📚 Learning Journey
 If you're curious about my practice & experiments:
 
