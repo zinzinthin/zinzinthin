@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Zin Zin Thin Zaw
 
-<!--
-**zinzinthin/zinzinthin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer with Full Stack Exposure
 
-Here are some ideas to get you started:
+⚙️ Laravel | Node.js | Express | MySQL | MongoDB | REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Portfolio
+🔗 https://zinzinthinzaw.vercel.app
+
+---
+
+## 📚 Learning Journey
+If you're curious about my practice & experiments:
+
+🔗 https://github.com/6rose9  
+
+---
+
+## 📫 Contact
+📧 Email: zinzinthinzaw@gmail.com  
+💻 GitHub: https://github.com/zinzinthin  
+🔗 LinkedIn: https://mm.linkedin.com/in/zin-zin-thin-zaw-1979a7196  
+
+---
+
+💡 *"Not here to be perfect — just here to be better than yesterday."*
